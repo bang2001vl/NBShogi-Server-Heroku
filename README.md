@@ -1,0 +1,2 @@
+# NBShogi-Server-Heroku
+ 
